@@ -4,9 +4,7 @@
 ## Description
 "Discover the interactive prowess of ASP in this project featuring a webpage dynamically altering its background color via URL parameters. Not only does it allow users to modify the color scheme effortlessly, but it also showcases the date and time of their last visit. Experience the dynamic adaptability of ASP pages while providing users with a personalized touch through the displayed visit details, creating a more engaging web experience.
 
-## Screenshots
-![Dynamic Background](preview.png)
-![Dynamic Background](preview.png)
+## Link
 
 For an interactive experience, check out the live website: http://asipahi-001-site1.etempurl.com/lab10a.asp
 
